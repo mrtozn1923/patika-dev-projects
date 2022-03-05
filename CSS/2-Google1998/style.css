@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 90%;
+    margin: 0 auto;
+}
+header{
+   text-align: center;
+   padding-top: 10px;
+}
+main{
+    text-align: center;
+}
+#search-form{
+    background-color: #EEEEEE;
+}
+#search-form input{
+    width: 300px;
+}
+#search-form button{
+    padding: 2px 7px;
+}
+table{
+    width: 100%;
+    font-size: 14px;
+}
+table td:nth-child(1){
+    width: 37%;
+    background-color: #7EE5DA;
+}
+table td:nth-child(2){
+    background-color: rgb(112, 204, 194);
+}
+table td:nth-child(3){
+    width: 45%;
+    background-color:  rgb(98, 179, 170);
+}
+footer{
+    text-align: center;
+    margin: 20px 0;
+    font-size: 14px;
+}
