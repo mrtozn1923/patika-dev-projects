@@ -6,3 +6,8 @@ Bu repository patika dev platformunda tanımlanan proje ve ödevler için oluşt
 1. Insertion Sort Projesi
 2. Merge Sort Projesi
 3. Binary Search Tree Projesi
+
+### CSS
+1. Music Market
+2. Google 1998 Homepage
+3. Google Homepage
