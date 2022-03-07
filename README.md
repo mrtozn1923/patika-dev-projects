@@ -11,3 +11,6 @@ Bu repository patika dev platformunda tanımlanan proje ve ödevler için oluşt
 1. Music Market
 2. Google 1998 Homepage
 3. Google Homepage
+
+### Javascript
+1. JS Clock
