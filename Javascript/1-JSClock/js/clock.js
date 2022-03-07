@@ -1,11 +1,10 @@
 let myName=document.getElementById("myName");
 let myClock=document.getElementById("myClock");
 let nowDate,nowTime;
-myName.innerText=prompt("Adınız nedir?");
+// myName.innerText=prompt("Adınız nedir?");
 
 getDateTime();
 setInterval(() => {
-    console.log("1");
     getDateTime();
 }, 1000);
 
