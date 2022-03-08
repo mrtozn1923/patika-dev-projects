@@ -14,3 +14,4 @@ Bu repository patika dev platformunda tanımlanan proje ve ödevler için oluşt
 
 ### Javascript
 1. JS Clock
+2. Todo List
