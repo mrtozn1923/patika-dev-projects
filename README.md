@@ -16,3 +16,6 @@ Bu repository patika dev platformunda tanımlanan proje ve ödevler için oluşt
 1. JS Clock
 2. Todo List
 3. Asian Kitchen
+
+### React
+1. JsonPlaceHolder
