@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+nav{
+  position: absolute;
+  top: 20px;
+}
+nav a{
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none; 
+  color: white;
+  margin: 0 10px;
+}
+nav a.blue{
+  background-color: darkblue;
+}
+nav a.red{
+  background-color: darkred;
+}
+nav a:hover{
+  opacity: 0.8;
+}
+
+.home-container{
+  font-size: 2rem;
+  font-weight: bold;
+}
+.about-container{
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.user-item{
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  background-color: #222222;
+  color: white;
+  display: block;
+  margin: 10px 0;
+  text-decoration: none;
+}
+
+.user-detail-card{
+  background-color: #222222;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  text-align: left;
+}
+.user-detail-card #user-name{ 
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.user-detail-card #user-email,#user-website{ 
+  font-size: 1.2rem;
+}
