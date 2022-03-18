@@ -1,0 +1,45 @@
+#signup-container{
+    padding: 20px 40px;
+    background-color: gray;
+    width: 300px;
+}
+#signup-container form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+#signup-container form input:not(input[type="checkbox"]){
+    height: 30px;
+    padding: 0 10px;
+    margin: 5px;   
+    width: 100%;
+}
+#signup-container form input:focus{
+    outline: 1px solid rgba(127, 127, 127, 0.8);
+}
+#signup-container form label{
+    font-size: 12px;
+}
+#signup-container form input[type="checkbox"]:focus{
+    outline: none;
+}
+#signup-container form button[type="submit"]{
+    height: 30px;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: bold;
+}
+:is(#singup-container) :is(#firstName,#lastName){
+    width: 50%;
+}
+#signup-container .input-error{
+    font-size: 14px;
+    color: #282c34;
+    font-weight: bold;
+}
+.error{
+    color: #282c34;
+}
