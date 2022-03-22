@@ -1,8 +1,8 @@
-##Emoji Search Test
+## Emoji Search Test
 ---
 Emoji Search uygulaması için yapılması istenen testleri gerçekleştirdiğim repodur.
 
-####Gereksinimler
+#### Gereksinimler
 Başlık kısmının başarılı bir şekilde render edildiğini kontrol edecek olan test kodunu yazın.
 Uygulama ilk açıldığında emoji listesinin başarılı bir şekilde render edildiğini kontrol edecek olan test kodunu yazın.
 Bir filtreleme işlemi yapıldığında, emoji listesinin bu filtreye uygun şekilde yeniden render edildiğini kontrol edecek olan test kodunu yazın.
